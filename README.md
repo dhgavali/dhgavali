@@ -4,7 +4,7 @@
 
 
 <br>
-<h3 style="color: purple"> <a href='https://dhgavali.me'> Checkout my Portfolio</a></h3>
+<h3> <a href='https://dhgavali.me'> Checkout my Portfolio</a></h3>
 
 <!---
 dhgavali/dhgavali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
