@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhgavali  - Dhananjay Gavali
 - 👀 I’m interested in software development. I love to develop softwares and functionalities in them.
-- 🌱 I’m currently learning flutter trying to build softwares with it.
+- 🌱 I’m currently working with flutter to build beautiful and efficient mobile apps.
 
 
 <br>
